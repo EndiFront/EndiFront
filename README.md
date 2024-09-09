@@ -9,6 +9,7 @@ I'm a Frontend Developer
 - 📽️ I regularly make videos in [Socials](#Socials)
 - 🌍 I speak English
 - 🧑‍💻 I've been programming for **4** years.
+------------------------
 
 ### Skills
 
@@ -22,6 +23,7 @@ I'm a Frontend Developer
   <img src="./github/tailwindcss.png" width="35" height="35" alt="Tailwindcss" />
   <img src="./github/Sass.png" width="40" height="35" alt="Scss" />
 </p>
+------------------------
 
 ### Tools
 
@@ -30,6 +32,7 @@ I'm a Frontend Developer
   <img src="./github/Figma.webp" width="40" height="40" alt="Figma" />
   <img src="./github/Ps.png" width="40" height="40" alt="Photoshop" />
 </p>
+------------------------
 
 ### Socials
 
@@ -46,6 +49,7 @@ I'm a Frontend Developer
     <img src="./github/tiktok.png" width="40" height="40" alt="Tiktok" />
   </a>
 </p>
+------------------------
 
 ### Contact me
 
