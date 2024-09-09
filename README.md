@@ -6,7 +6,7 @@ I'm a Frontend Developer
 
 ### About me 
 - 🌱 I’m currently learning **Databases**
-- 📝 I regularly write articles on [Medium](medium-link)
+- 📽️ I regularly make videos in  [Medium](medium-link)
 - 📄 Know about my experiences [CV](cv-link)
 - 🌍 I speak English
 
