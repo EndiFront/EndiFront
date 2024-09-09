@@ -44,7 +44,7 @@ I'm a Frontend Developer
 ### Contact me
 
 <p align="left"> 
-  <a href="#" target="_blank" rel="noreferrer"> 
+  <a href="#" target="_blank" rel="noreferrer" width="40" height="40"> 
     <img src="./github/Instagram.png" width="40" height="40" alt="Instagram" />
   </a>
   
