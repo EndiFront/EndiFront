@@ -49,6 +49,6 @@ I'm a Frontend Developer
   </a>
   
   <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="./github/gmail.png" width="40" height="40" alt="Tiktok" />
+    <img src="./github/gmail.webp" width="40" height="40" alt="Gmail" />
   </a>
 </p>
