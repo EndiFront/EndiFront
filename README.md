@@ -11,6 +11,7 @@ I'm a Frontend Developer
   <img src="./github/css.png" width="36" height="36" alt="Css" />
   <img src="./github/JavaScript.png" width="38" height="38" alt="JavaScript" />
   <img src="./github/Vue.png" width="35" height="35" alt="Vue" />
+  <img src="./github/Vite.png" width="35" height="35" alt="Vite" />
 </p>
 
 ### Socials
