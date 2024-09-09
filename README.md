@@ -14,6 +14,7 @@ I'm a Frontend Developer
   <img src="./github/Vite.png" width="35" height="35" alt="Vite" />
   <img src="./github/bootstrap.png" width="35" height="35" alt="Bootstrap" />
   <img src="./github/tailwindcss.png" width="35" height="35" alt="Tailwindcss" />
+  <img src="./github/Sass.png" width="35" height="35" alt="Scss" />
 </p>
 
 ### Socials
