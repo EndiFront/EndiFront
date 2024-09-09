@@ -1,5 +1,5 @@
 <div id="header" display="flex"> 
-  <h1>Hi, I'm <p>Endi</p></h1> 
+  <h1>Hi, I'm **Endi**</h1> 
 </div>
 
 ### About me 
