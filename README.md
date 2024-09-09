@@ -9,7 +9,7 @@ I'm a Frontend Developer
 - 📝 I regularly write articles on [Medium](medium-link)
 - 📄 Know about my experiences [CV](cv-link)
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
-- 🌍 I speak English ---
+- 🌍 I speak English
 
 ### Skills
 
