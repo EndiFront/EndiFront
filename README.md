@@ -4,6 +4,13 @@ Hi 👋 I'm Endi
 I'm a Frontend Developer
 ------------------------
 
+### About me 
+- 🌱 I’m currently learning **Web3, GameDev**
+- 📝 I regularly write articles on [Medium](medium-link)
+- 📄 Know about my experiences [CV](cv-link)
+- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
+  - 🌍 I speak English ---
+
 ### Skills
 
 <p align="left">
