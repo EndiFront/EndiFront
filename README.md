@@ -20,7 +20,7 @@ I'm a Frontend Developer
 ### Tools
 
 <p align="left">
-  <img src="./github/html.png" width="30" height="36" alt="HTML5" />
+  <img src="./github/Vs code.png" width="30" height="36" alt="Vs code" />
 </p>
 
 ### Socials
