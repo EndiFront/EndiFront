@@ -40,3 +40,5 @@ I'm a Frontend Developer
     <img src="./github/tiktok.png" width="40" height="40" alt="Tiktok" />
   </a>
 </p>
+
+### Contact me
