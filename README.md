@@ -28,6 +28,7 @@ I'm a Frontend Developer
 ### Socials
 
 <p align="left"> 
-  <a href="http://www.instagram.com/fffff" target="_blank" rel="noreferrer"> 
+  <a href="#" target="_blank" rel="noreferrer"> 
     <img src="./github/Instagram.png" width="40" height="40" alt="Instagram" />
-  </a></p>
+  </a>
+</p>
