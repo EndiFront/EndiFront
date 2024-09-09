@@ -29,7 +29,7 @@ I'm a Frontend Developer
 
 <p align="left"> 
   <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="./github/youTube.png" width="40" height="40" alt="YouTube" />
+    <img src="./github/youtube.png" width="40" height="40" alt="YouTube" />
   </a>
   <a href="#" target="_blank" rel="noreferrer"> 
     <img src="./github/Instagram.png" width="40" height="40" alt="Instagram" />
