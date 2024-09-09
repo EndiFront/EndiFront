@@ -1,4 +1,4 @@
-<div id="header" align="center"> 
+<div id="header" display="flex"> 
   <h1>Hi, I'm <p>Endi</p></h1> 
 </div>
 
