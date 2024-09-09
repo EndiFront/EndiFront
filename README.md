@@ -5,6 +5,7 @@ I'm a Frontend Developer
 ------------------------
 
 ### About me 
+- 👦🏻 I'm 16 years old
 - 🌱 I’m currently learning **Databases**
 - 📽️ I regularly make videos in [Socials](#Socials)
 - 🌍 I speak English
