@@ -7,7 +7,6 @@ I'm a Frontend Developer
 ### About me 
 - 🌱 I’m currently learning **Databases**
 - 📽️ I regularly make videos in [Socials](#Socials)
-- 📄 Know about my experiences [CV](cv-link)
 - 🌍 I speak English
 
 ### Skills
