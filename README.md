@@ -28,15 +28,15 @@ I'm a Frontend Developer
 ### Socials
 
 <p align="left"> 
-  <a href="#" target="_blank" rel="noreferrer"> 
+  <a href="#" target="_blank" rel="noreferrer" width="40" height="40"> 
     <img src="./github/youtube.png" width="40" height="40" alt="YouTube" />
   </a>
   
-  <a href="#" target="_blank" rel="noreferrer"> 
+  <a href="#" target="_blank" rel="noreferrer" width="40" height="40"> 
     <img src="./github/Instagram.png" width="40" height="40" alt="Instagram" />
   </a>
   
-  <a href="#" target="_blank" rel="noreferrer"> 
+  <a href="#" target="_blank" rel="noreferrer" width="40" height="40"> 
     <img src="./github/tiktok.png" width="40" height="40" alt="Tiktok" />
   </a>
 </p>
@@ -48,19 +48,19 @@ I'm a Frontend Developer
     <img src="./github/Instagram.png" width="40" height="40" alt="Instagram" />
   </a>
   
-  <a href="#" target="_blank" rel="noreferrer"> 
+  <a href="#" target="_blank" rel="noreferrer" width="40" height="40"> 
     <img src="./github/gmail.webp" width="40" height="40" alt="Gmail" />
   </a>
 
-  <a href="#" target="_blank" rel="noreferrer"> 
+  <a href="#" target="_blank" rel="noreferrer" width="40" height="40"> 
     <img src="./github/WhatsApp.png" width="40" height="40" alt="WhatsApp" />
   </a>
 
-  <a href="#" target="_blank" rel="noreferrer"> 
+  <a href="#" target="_blank" rel="noreferrer" width="40" height="40"> 
     <img src="./github/Telegram.png" width="40" height="40" alt="Telegram" />
   </a>
 
-  <a href="#" target="_blank" rel="noreferrer"> 
+  <a href="#" target="_blank" rel="noreferrer" width="40" height="40"> 
     <img src="./github/Discord.png" width="40" height="40" alt="Discord" />
   </a>
 </p>
