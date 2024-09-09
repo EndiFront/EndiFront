@@ -35,6 +35,6 @@ I'm a Frontend Developer
     <img src="./github/Instagram.png" width="40" height="40" alt="Instagram" />
   </a>
   <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="./github/tiktok.png" width="40" height="40" alt="Tiktok" />
+    <img src="./github/Tiktok.png" width="40" height="40" alt="Tiktok" />
   </a>
 </p>
