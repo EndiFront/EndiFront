@@ -11,6 +11,7 @@ I'm a Frontend Developer
 - 🌍 I speak English
 - 🧑‍💻 I've been programming for **4** years
 - 🎴 I watch anime
+- ❌ I'm NOT a DESIGNER
   
 ------------------------
 
