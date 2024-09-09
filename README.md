@@ -1,4 +1,4 @@
-Hi 👋 My name is Endi
+Hi 👋 I'm Endi
 =====================
 
 I'm a Frontend Developer
