@@ -1,4 +1,6 @@
-<img src="./github/hear.png" width="800" height="388" alt="HTML5" />
+<div id="header" align="center"> 
+  <h1>Hi, I'm Endi</h1> 
+</div>
 
 ### About me 
 - 👦🏻 I'm 16 years old
