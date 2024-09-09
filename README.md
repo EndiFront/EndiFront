@@ -51,4 +51,8 @@ I'm a Frontend Developer
   <a href="#" target="_blank" rel="noreferrer"> 
     <img src="./github/gmail.webp" width="40" height="40" alt="Gmail" />
   </a>
+
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="./github/WhatsApp.png" width="40" height="40" alt="WhatsApp" />
+  </a>
 </p>
