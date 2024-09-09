@@ -1,8 +1,4 @@
-Hi 👋 I'm Endi
-=====================
-
-I'm a Frontend Developer
-------------------------
+<img src="./github/hear.png" width="30" height="36" alt="HTML5" />
 
 ### About me 
 - 👦🏻 I'm 16 years old
