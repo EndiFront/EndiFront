@@ -59,4 +59,8 @@ I'm a Frontend Developer
   <a href="#" target="_blank" rel="noreferrer"> 
     <img src="./github/Telegram.png" width="40" height="40" alt="Telegram" />
   </a>
+
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="./github/Discord.png" width="40" height="40" alt="Discord" />
+  </a>
 </p>
