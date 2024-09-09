@@ -6,12 +6,13 @@ I'm a Frontend Developer
 
 ### About me 
 - 👦🏻 I'm 16 years old
+- 💻 I'm a Frontend Developer
+- ❌ I'm NOT a DESIGNER
 - 🌱 I’m currently learning **Databases**
 - 📽️ I regularly make videos in [Socials](#Socials)
 - 🌍 I speak English
 - 🧑‍💻 I've been programming for **4** years
 - 🎴 I watch anime
-- ❌ I'm NOT a DESIGNER
   
 ------------------------
 
