@@ -4,6 +4,7 @@
 
 ### About me 
 - 👦🏻 I'm 16 years old
+- 👨🏻‍🎓 I'm a student
 - 💻 I'm a Frontend Developer
 - ❌ I'm NOT a DESIGNER
 - 🌱 I’m currently learning **Databases**
