@@ -1,4 +1,4 @@
-<img src="./github/hear.png" width="736" height="388" alt="HTML5" />
+<img src="./github/hear.png" width="736" height="288" alt="HTML5" />
 
 ### About me 
 - 👦🏻 I'm 16 years old
