@@ -9,7 +9,7 @@ I'm a Frontend Developer
 <p align="left">
   <img src="./github/html.png" width="30" height="36" alt="HTML5" />
   <img src="./github/css.png" width="36" height="36" alt="Css" />
-  <img src="./github/JavaScript.png" width="46" height="46" alt="JavaScript" />
+  <img src="./github/JavaScript.png" width="40" height="40" alt="JavaScript" />
 </p>
 
 ### Socials
