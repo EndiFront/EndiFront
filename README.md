@@ -21,6 +21,7 @@ I'm a Frontend Developer
 
 <p align="left">
   <img src="./github/Vs code.png" width="40" height="40" alt="Vs code" />
+  <img src="./github/Figma.webp" width="40" height="40" alt="Figma" />
 </p>
 
 ### Socials
