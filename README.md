@@ -1,5 +1,5 @@
 <div id="header"> 
-  <h1>Hi, I'm Endi</h1> 
+  <h1>Hi🖐🏻, I'm Endi</h1> 
 </div>
 
 ### About me 
