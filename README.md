@@ -73,7 +73,7 @@
     <img src="./github/WhatsApp.png" width="40" height="40" alt="WhatsApp" />
   </a>
 
-  <a href="t.me/Endi_Dw" target="_blank" rel="noreferrer" width="40" height="40"> 
+  <a href="http://t.me/Endi_Dw" target="_blank" rel="noreferrer" width="40" height="40"> 
     <img src="./github/Telegram.png" width="40" height="40" alt="Telegram" />
   </a>
 
