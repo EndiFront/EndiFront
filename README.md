@@ -65,7 +65,7 @@
     <img src="./github/Instagram.png" width="40" height="40" alt="Instagram" />
   </a>
   
-  <a href="rokerlive50@gmail.com" target="_blank" rel="noreferrer" width="40" height="40"> 
+  <a href="mailto:rokerlive50@gmail.com" target="_blank" rel="noreferrer" width="40" height="40"> 
     <img src="./github/gmail.webp" width="40" height="40" alt="Gmail" />
   </a>
 
