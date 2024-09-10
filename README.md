@@ -43,7 +43,7 @@
 ### Socials
 
 <p align="left"> 
-  <a href="#" target="_blank" rel="noreferrer" width="40" height="40"> 
+  <a href="https://youtube.com/@frontdev-endi?si=NTcJ928T_taSndkQ" target="_blank" rel="noreferrer" width="40" height="40"> 
     <img src="./github/youtube.png" width="40" height="40" alt="YouTube" />
   </a>
   
