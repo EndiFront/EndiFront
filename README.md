@@ -77,7 +77,7 @@
     <img src="./github/Telegram.png" width="40" height="40" alt="Telegram" />
   </a>
 
-  <a href="#" target="_blank" rel="noreferrer" width="40" height="40"> 
+  <a href="https://discordapp.com/users/628287681876590612/" target="_blank" rel="noreferrer" width="40" height="40"> 
     <img src="./github/Discord.png" width="40" height="40" alt="Discord" />
   </a>
 </p>
