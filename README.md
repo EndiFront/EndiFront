@@ -51,7 +51,7 @@
     <img src="./github/Instagram.png" width="40" height="40" alt="Instagram" />
   </a>
   
-  <a href="#" target="_blank" rel="noreferrer" width="40" height="40"> 
+  <a href="[#](https://www.tiktok.com/@frontdev27?_t=8pjsan3nizN&_r=1)" target="_blank" rel="noreferrer" width="40" height="40"> 
     <img src="./github/tiktok.png" width="40" height="40" alt="Tiktok" />
   </a>
 </p>
