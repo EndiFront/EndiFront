@@ -26,6 +26,7 @@
   <img src="./github/bootstrap.png" width="35" height="35" alt="Bootstrap" />
   <img src="./github/tailwindcss.png" width="35" height="35" alt="Tailwindcss" />
   <img src="./github/Sass.png" width="40" height="35" alt="Scss" />
+  <img src="./github/web3.png" width="40" height="35" alt="web3" />
 </p>
 
 ------------------------
