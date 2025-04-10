@@ -40,19 +40,6 @@
 
 ------------------------
 
-### Socials
-
-<p align="left"> 
-  <a href="https://youtube.com/@frontdev-endi?si=NTcJ928T_taSndkQ" target="_blank" rel="noreferrer" width="40" height="40"> 
-    <img src="./github/youtube.png" width="40" height="40" alt="YouTube" />
-  </a>
-  
-  <a href="[#](https://www.tiktok.com/@frontdev27?_t=8pjsan3nizN&_r=1)" target="_blank" rel="noreferrer" width="40" height="40"> 
-    <img src="./github/tiktok.png" width="40" height="40" alt="Tiktok" />
-  </a>
-</p>
-
-------------------------
 
 ### Contact me
 
