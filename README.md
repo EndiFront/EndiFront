@@ -7,7 +7,6 @@
 - 👨🏻‍🎓 I'm a student
 - 💻 I'm a Frontend Developer
 - 🌱 I’m currently learning **Databases**
-- 📽️ I regularly make videos in [Socials](#Socials)
 - 🌍 I speak English
 - 🧑‍💻 I've been programming for **4** years
 - 🎴 I watch anime
