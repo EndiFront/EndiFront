@@ -36,23 +36,3 @@
   <img src="./github/Figma.webp" width="40" height="40" alt="Figma" />
   <img src="./github/Ps.png" width="40" height="40" alt="Photoshop" />
 </p>
-
-------------------------
-
-
-### Contact me
-
-<p align="left"> 
-
-  <a href="https://api.whatsapp.com/send?phone=79106170005" target="_blank" rel="noreferrer" width="40" height="40"> 
-    <img src="./github/WhatsApp.png" width="40" height="40" alt="WhatsApp" />
-  </a>
-
-  <a href="http://t.me/Endi_Dw" target="_blank" rel="noreferrer" width="40" height="40"> 
-    <img src="./github/Telegram.png" width="40" height="40" alt="Telegram" />
-  </a>
-
-  <a href="https://discordapp.com/users/628287681876590612/" target="_blank" rel="noreferrer" width="40" height="40"> 
-    <img src="./github/Discord.png" width="40" height="40" alt="Discord" />
-  </a>
-</p>
