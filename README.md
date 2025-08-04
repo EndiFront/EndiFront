@@ -1,6 +1,6 @@
 <div id="header"> 
   <h1>😊I'm Endi</h1>
-  <h1>Web Developer | Student | Always Learning</h1>
+  <h3>Web Developer | Student | Always Learning</h3>
 </div>
 
 # 💻 Tech Stack:
