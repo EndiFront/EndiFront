@@ -1,9 +1,9 @@
 <div id="header"> 
   <h1>😊I'm Endi</h1>
-  <h4>Web Developer | Student | Always Learning</h4>
-  <h4>I’ve been coding for 4 years, creating modern and user-friendly web applications</h4>
-  <h4>I love playing Fortnite</h4>
-  <h4>I enjoy watching anime</h4>
+  <p>Web Developer | Student | Always Learning</p>
+  <p>I’ve been coding for 4 years, creating modern and user-friendly web applications</p>
+  <p>I love playing Fortnite</p>
+  <p>I enjoy watching anime</p>
 </div>
 
 # 💻 Tech Stack:
